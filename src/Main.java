@@ -7,6 +7,8 @@ public class Main {
         String message = "I want to buy 3 shirt!";
         System.out.println(message);
             System.out.println( total = price*quantity*tax);
+            String S = "Total cost with tax is 7534.44000000001";
+            System.out.println(S);
         }
 
 }
